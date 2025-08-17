@@ -1,2 +1,7 @@
 ipykernel
 numpy
+pandas
+matplotlib
+pyarrow
+fastparquet
+jinja2
