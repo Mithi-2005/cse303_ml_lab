@@ -6,3 +6,4 @@ pyarrow
 fastparquet
 jinja2
 scikit-learn
+seaborn
