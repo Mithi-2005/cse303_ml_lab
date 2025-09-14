@@ -7,3 +7,4 @@ fastparquet
 jinja2
 scikit-learn
 seaborn
+statsmodels
